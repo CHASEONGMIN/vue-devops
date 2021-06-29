@@ -1,5 +1,8 @@
 <template>
-  <HelloWorld msg="Welcome to 차성민 App" />
+  <div>
+  <img alt="Vue logo" src="./assets/logo.png"/>
+  <HelloWorld msg="테스트 성공" />
+  </div>
 </template>
 
 <script>
